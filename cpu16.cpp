@@ -1,6 +1,6 @@
 /*
     Emulate a hypothetical very-simple 16-bit CPU!
-    I got the idea from github.com/CodingKraken
+    I got the idea from:  https://github.com/CodingKraken/K88
 
     My goal isn't to exactly replicate a certain architecture,
     but to just capture the main ideas of a CPU!
